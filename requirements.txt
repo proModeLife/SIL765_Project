@@ -1,0 +1,7 @@
+selenium
+selenium-wire
+webdriver_manager
+argparse
+numpy
+sklearn
+pickle
